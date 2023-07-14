@@ -18,7 +18,7 @@ I know I'm just a fool who's willing
 To sit around and wait for you
      D               B7         C6               B7   Em7   Em7
 But, baby, can't you see there's nothin' else for me to do
-    F#m7       Cm7  Em7      Gm    Gm    D
+    F#m7       Fm7  Em7      Gm    Gm    D
 I'm hopelessly de - voted to you 
  
 [Chorus]
@@ -32,7 +32,7 @@ Cm7          Cdim     Gm    Gm    D
 Hopelessly devoted to you
 
 [Verse 2]
-   D              F#m7           G          D
+   D              F#m7           G          G
 My head is sayin',     "Fool, forget him"
    Em7              A7            Dmaj7       D6
 My heart is sayin',    "Don't let go"
