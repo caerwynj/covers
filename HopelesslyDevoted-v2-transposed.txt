@@ -1,5 +1,5 @@
 Hopelessly Devoted to You.  Recorded by Olivia Newton-John. Composed by John Farrar
-Transposed to D
+Transposed to D. capo 2nd fret.70 bpm
  
 [Intro] (with steel guitar)
 Gm   D   Gm   D   Gm      D
@@ -33,7 +33,7 @@ Hopelessly devoted to you
 
 [Verse 2]
    D              F#m7           G          G
-My head is sayin',     "Fool, forget him"
+My head is sayin',     "Fool, forget her"
    Em7              A7            Dmaj7       D6
 My heart is sayin',    "Don't let go"
 D              B7  C6              B7     Em7   Em7
